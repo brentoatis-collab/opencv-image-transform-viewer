@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Making image transformations and color-space analysis practical for visual inspection and camera workflows.
+
 # CST 544 Week 1  
 ## Interactive Image Viewer with Transformations and Color Space Conversion
 
